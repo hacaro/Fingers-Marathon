@@ -1,6 +1,6 @@
-Fingers-Marathon
+Fingers-Marathon iOS Cocos2d + Cocosbuilder
 ================
 
-Fingers Mrathone Game for iPhone
+Fingers Marathon Game for iPhone
 
 
