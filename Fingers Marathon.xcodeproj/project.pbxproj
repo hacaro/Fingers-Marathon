@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02110E3B18211E2800CB3CE1 /* MainMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 02110E3A18211E2800CB3CE1 /* MainMenu.m */; };
+		02110E571821236F00CB3CE1 /* ccbDefaultImages.plist in Resources */ = {isa = PBXBuildFile; fileRef = 02110E3E1821236F00CB3CE1 /* ccbDefaultImages.plist */; };
+		02110E581821236F00CB3CE1 /* ccbDefaultImages.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E3F1821236F00CB3CE1 /* ccbDefaultImages.png */; };
+		02110E591821236F00CB3CE1 /* ccbParticleFire.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E401821236F00CB3CE1 /* ccbParticleFire.png */; };
+		02110E5A1821236F00CB3CE1 /* ccbParticleSmoke.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E411821236F00CB3CE1 /* ccbParticleSmoke.png */; };
+		02110E5B1821236F00CB3CE1 /* ccbParticleSnow.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E421821236F00CB3CE1 /* ccbParticleSnow.png */; };
+		02110E5C1821236F00CB3CE1 /* ccbParticleStars.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E431821236F00CB3CE1 /* ccbParticleStars.png */; };
+		02110E5D1821236F00CB3CE1 /* ccbDefaultImages.plist in Resources */ = {isa = PBXBuildFile; fileRef = 02110E461821236F00CB3CE1 /* ccbDefaultImages.plist */; };
+		02110E5E1821236F00CB3CE1 /* ccbDefaultImages.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E471821236F00CB3CE1 /* ccbDefaultImages.png */; };
+		02110E5F1821236F00CB3CE1 /* fileLookup.plist in Resources */ = {isa = PBXBuildFile; fileRef = 02110E481821236F00CB3CE1 /* fileLookup.plist */; };
+		02110E601821236F00CB3CE1 /* GameScene.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 02110E491821236F00CB3CE1 /* GameScene.ccbi */; };
+		02110E611821236F00CB3CE1 /* MainMenu.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 02110E4A1821236F00CB3CE1 /* MainMenu.ccbi */; };
+		02110E621821236F00CB3CE1 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E4C1821236F00CB3CE1 /* background.png */; };
+		02110E631821236F00CB3CE1 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E4D1821236F00CB3CE1 /* button.png */; };
+		02110E641821236F00CB3CE1 /* clickme-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E4E1821236F00CB3CE1 /* clickme-down.png */; };
+		02110E651821236F00CB3CE1 /* clickme.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E4F1821236F00CB3CE1 /* clickme.png */; };
+		02110E661821236F00CB3CE1 /* road.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E501821236F00CB3CE1 /* road.png */; };
+		02110E671821236F00CB3CE1 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E521821236F00CB3CE1 /* background.png */; };
+		02110E681821236F00CB3CE1 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E531821236F00CB3CE1 /* button.png */; };
+		02110E691821236F00CB3CE1 /* clickme-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E541821236F00CB3CE1 /* clickme-down.png */; };
+		02110E6A1821236F00CB3CE1 /* clickme.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E551821236F00CB3CE1 /* clickme.png */; };
+		02110E6B1821236F00CB3CE1 /* road.png in Resources */ = {isa = PBXBuildFile; fileRef = 02110E561821236F00CB3CE1 /* road.png */; };
+		02110E6E182123A700CB3CE1 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 02110E6D182123A700CB3CE1 /* GameScene.m */; };
 		028433BE1820F4C100D57E86 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 028433BD1820F4C100D57E86 /* QuartzCore.framework */; };
 		028433C01820F4C100D57E86 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 028433BF1820F4C100D57E86 /* OpenGLES.framework */; };
 		028433C21820F4C100D57E86 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 028433C11820F4C100D57E86 /* OpenAL.framework */; };
@@ -164,6 +187,31 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		02110E3918211E2800CB3CE1 /* MainMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenu.h; sourceTree = "<group>"; };
+		02110E3A18211E2800CB3CE1 /* MainMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenu.m; sourceTree = "<group>"; };
+		02110E3E1821236F00CB3CE1 /* ccbDefaultImages.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ccbDefaultImages.plist; sourceTree = "<group>"; };
+		02110E3F1821236F00CB3CE1 /* ccbDefaultImages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbDefaultImages.png; sourceTree = "<group>"; };
+		02110E401821236F00CB3CE1 /* ccbParticleFire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleFire.png; sourceTree = "<group>"; };
+		02110E411821236F00CB3CE1 /* ccbParticleSmoke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleSmoke.png; sourceTree = "<group>"; };
+		02110E421821236F00CB3CE1 /* ccbParticleSnow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleSnow.png; sourceTree = "<group>"; };
+		02110E431821236F00CB3CE1 /* ccbParticleStars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleStars.png; sourceTree = "<group>"; };
+		02110E461821236F00CB3CE1 /* ccbDefaultImages.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ccbDefaultImages.plist; sourceTree = "<group>"; };
+		02110E471821236F00CB3CE1 /* ccbDefaultImages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbDefaultImages.png; sourceTree = "<group>"; };
+		02110E481821236F00CB3CE1 /* fileLookup.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = fileLookup.plist; sourceTree = "<group>"; };
+		02110E491821236F00CB3CE1 /* GameScene.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = GameScene.ccbi; sourceTree = "<group>"; };
+		02110E4A1821236F00CB3CE1 /* MainMenu.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = MainMenu.ccbi; sourceTree = "<group>"; };
+		02110E4C1821236F00CB3CE1 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		02110E4D1821236F00CB3CE1 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		02110E4E1821236F00CB3CE1 /* clickme-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clickme-down.png"; sourceTree = "<group>"; };
+		02110E4F1821236F00CB3CE1 /* clickme.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clickme.png; sourceTree = "<group>"; };
+		02110E501821236F00CB3CE1 /* road.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = road.png; sourceTree = "<group>"; };
+		02110E521821236F00CB3CE1 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		02110E531821236F00CB3CE1 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		02110E541821236F00CB3CE1 /* clickme-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clickme-down.png"; sourceTree = "<group>"; };
+		02110E551821236F00CB3CE1 /* clickme.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clickme.png; sourceTree = "<group>"; };
+		02110E561821236F00CB3CE1 /* road.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = road.png; sourceTree = "<group>"; };
+		02110E6C182123A700CB3CE1 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		02110E6D182123A700CB3CE1 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
 		028433BA1820F4C100D57E86 /* Fingers Marathon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Fingers Marathon.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		028433BD1820F4C100D57E86 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		028433BF1820F4C100D57E86 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -507,6 +555,75 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		02110E3C1821236F00CB3CE1 /* Published-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				02110E3D1821236F00CB3CE1 /* ccbResources */,
+				02110E481821236F00CB3CE1 /* fileLookup.plist */,
+				02110E491821236F00CB3CE1 /* GameScene.ccbi */,
+				02110E4A1821236F00CB3CE1 /* MainMenu.ccbi */,
+				02110E4B1821236F00CB3CE1 /* resources-iphone */,
+				02110E511821236F00CB3CE1 /* resources-iphonehd */,
+			);
+			name = "Published-iOS";
+			path = "Resources/Cocosbuilder/Published-iOS";
+			sourceTree = "<group>";
+		};
+		02110E3D1821236F00CB3CE1 /* ccbResources */ = {
+			isa = PBXGroup;
+			children = (
+				02110E3E1821236F00CB3CE1 /* ccbDefaultImages.plist */,
+				02110E3F1821236F00CB3CE1 /* ccbDefaultImages.png */,
+				02110E401821236F00CB3CE1 /* ccbParticleFire.png */,
+				02110E411821236F00CB3CE1 /* ccbParticleSmoke.png */,
+				02110E421821236F00CB3CE1 /* ccbParticleSnow.png */,
+				02110E431821236F00CB3CE1 /* ccbParticleStars.png */,
+				02110E441821236F00CB3CE1 /* resources-iphone */,
+				02110E451821236F00CB3CE1 /* resources-iphonehd */,
+			);
+			path = ccbResources;
+			sourceTree = "<group>";
+		};
+		02110E441821236F00CB3CE1 /* resources-iphone */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "resources-iphone";
+			sourceTree = "<group>";
+		};
+		02110E451821236F00CB3CE1 /* resources-iphonehd */ = {
+			isa = PBXGroup;
+			children = (
+				02110E461821236F00CB3CE1 /* ccbDefaultImages.plist */,
+				02110E471821236F00CB3CE1 /* ccbDefaultImages.png */,
+			);
+			path = "resources-iphonehd";
+			sourceTree = "<group>";
+		};
+		02110E4B1821236F00CB3CE1 /* resources-iphone */ = {
+			isa = PBXGroup;
+			children = (
+				02110E4C1821236F00CB3CE1 /* background.png */,
+				02110E4D1821236F00CB3CE1 /* button.png */,
+				02110E4E1821236F00CB3CE1 /* clickme-down.png */,
+				02110E4F1821236F00CB3CE1 /* clickme.png */,
+				02110E501821236F00CB3CE1 /* road.png */,
+			);
+			path = "resources-iphone";
+			sourceTree = "<group>";
+		};
+		02110E511821236F00CB3CE1 /* resources-iphonehd */ = {
+			isa = PBXGroup;
+			children = (
+				02110E521821236F00CB3CE1 /* background.png */,
+				02110E531821236F00CB3CE1 /* button.png */,
+				02110E541821236F00CB3CE1 /* clickme-down.png */,
+				02110E551821236F00CB3CE1 /* clickme.png */,
+				02110E561821236F00CB3CE1 /* road.png */,
+			);
+			path = "resources-iphonehd";
+			sourceTree = "<group>";
+		};
 		028433B11820F4C100D57E86 = {
 			isa = PBXGroup;
 			children = (
@@ -555,6 +672,10 @@
 				028433D21820F4C100D57E86 /* Resources */,
 				028433EA1820F4C100D57E86 /* libs */,
 				0284355E1820F4C300D57E86 /* Supporting Files */,
+				02110E3918211E2800CB3CE1 /* MainMenu.h */,
+				02110E3A18211E2800CB3CE1 /* MainMenu.m */,
+				02110E6C182123A700CB3CE1 /* GameScene.h */,
+				02110E6D182123A700CB3CE1 /* GameScene.m */,
 			);
 			path = "Fingers Marathon";
 			sourceTree = "<group>";
@@ -562,6 +683,7 @@
 		028433D21820F4C100D57E86 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				02110E3C1821236F00CB3CE1 /* Published-iOS */,
 				028433D31820F4C100D57E86 /* Default.png */,
 				028433D51820F4C100D57E86 /* Default@2x.png */,
 				028433D71820F4C100D57E86 /* Default-568h@2x.png */,
@@ -1068,19 +1190,40 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02110E691821236F00CB3CE1 /* clickme-down.png in Resources */,
+				02110E681821236F00CB3CE1 /* button.png in Resources */,
+				02110E5E1821236F00CB3CE1 /* ccbDefaultImages.png in Resources */,
+				02110E671821236F00CB3CE1 /* background.png in Resources */,
+				02110E581821236F00CB3CE1 /* ccbDefaultImages.png in Resources */,
 				028433E41820F4C100D57E86 /* Icon.png in Resources */,
 				028435421820F4C300D57E86 /* ChangeLog in Resources */,
+				02110E6B1821236F00CB3CE1 /* road.png in Resources */,
+				02110E5F1821236F00CB3CE1 /* fileLookup.plist in Resources */,
+				02110E5D1821236F00CB3CE1 /* ccbDefaultImages.plist in Resources */,
+				02110E641821236F00CB3CE1 /* clickme-down.png in Resources */,
+				02110E621821236F00CB3CE1 /* background.png in Resources */,
+				02110E611821236F00CB3CE1 /* MainMenu.ccbi in Resources */,
 				028433D61820F4C100D57E86 /* Default@2x.png in Resources */,
 				028433E01820F4C100D57E86 /* Icon-Small.png in Resources */,
+				02110E5C1821236F00CB3CE1 /* ccbParticleStars.png in Resources */,
+				02110E631821236F00CB3CE1 /* button.png in Resources */,
 				028435AF1820FBAD00D57E86 /* README.md in Resources */,
 				028433DC1820F4C100D57E86 /* Icon-72.png in Resources */,
+				02110E5A1821236F00CB3CE1 /* ccbParticleSmoke.png in Resources */,
 				028433D41820F4C100D57E86 /* Default.png in Resources */,
+				02110E591821236F00CB3CE1 /* ccbParticleFire.png in Resources */,
 				028433DE1820F4C100D57E86 /* Icon-Small-50.png in Resources */,
 				028433E91820F4C100D57E86 /* iTunesArtwork in Resources */,
+				02110E601821236F00CB3CE1 /* GameScene.ccbi in Resources */,
+				02110E571821236F00CB3CE1 /* ccbDefaultImages.plist in Resources */,
 				028433E21820F4C100D57E86 /* Icon-Small@2x.png in Resources */,
 				028433DA1820F4C100D57E86 /* Default-Landscape~ipad.png in Resources */,
 				028433D81820F4C100D57E86 /* Default-568h@2x.png in Resources */,
 				028433E61820F4C100D57E86 /* Icon@2x.png in Resources */,
+				02110E6A1821236F00CB3CE1 /* clickme.png in Resources */,
+				02110E651821236F00CB3CE1 /* clickme.png in Resources */,
+				02110E661821236F00CB3CE1 /* road.png in Resources */,
+				02110E5B1821236F00CB3CE1 /* ccbParticleSnow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1115,6 +1258,7 @@
 				028434491820F4C200D57E86 /* CCLabelBMFont.m in Sources */,
 				028434F61820F4C200D57E86 /* ccCArray.m in Sources */,
 				028435201820F4C300D57E86 /* CDXMacOSXSupport.m in Sources */,
+				02110E6E182123A700CB3CE1 /* GameScene.m in Sources */,
 				028435AD1820FBAD00D57E86 /* CCScale9Sprite.m in Sources */,
 				028435141820F4C300D57E86 /* ZipUtils.m in Sources */,
 				028434061820F4C200D57E86 /* CCActionManager.m in Sources */,
@@ -1150,6 +1294,7 @@
 				028434D41820F4C200D57E86 /* CCES2Renderer.m in Sources */,
 				028434461820F4C200D57E86 /* CCLabelAtlas.m in Sources */,
 				028434621820F4C200D57E86 /* CCParallaxNode.m in Sources */,
+				02110E3B18211E2800CB3CE1 /* MainMenu.m in Sources */,
 				0284359F1820FBAD00D57E86 /* CCBsequence.m in Sources */,
 				0284356A1820F4C300D57E86 /* IntroLayer.m in Sources */,
 				028433FA1820F4C200D57E86 /* CCActionGrid.m in Sources */,
@@ -1278,12 +1423,14 @@
 				GCC_PREFIX_HEADER = "Fingers Marathon/Prefix.pch";
 				HEADER_SEARCH_PATHS = "\"Fingers Marathon/libs/kazmath/include\"";
 				INFOPLIST_FILE = "Fingers Marathon/Resources/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-lsqlite3",
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1297,12 +1444,14 @@
 				GCC_PREFIX_HEADER = "Fingers Marathon/Prefix.pch";
 				HEADER_SEARCH_PATHS = "\"Fingers Marathon/libs/kazmath/include\"";
 				INFOPLIST_FILE = "Fingers Marathon/Resources/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-lsqlite3",
 					"-ObjC",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
@@ -1327,6 +1476,7 @@
 				0284356F1820F4C300D57E86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
